@@ -1,8 +1,8 @@
-import ahem_x from "../assets/ahem_x.wav";
+import yay_z from "../assets/yay_z.wav";
 
 function Results({restartQuiz,questionBank,userAnswers}) {
       function play(){
-    new Audio(ahem_x).play()
+    new Audio(yay_z).play()
   }
     function getScore(){
         let finalScore = 0;
