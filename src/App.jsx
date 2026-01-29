@@ -9,7 +9,7 @@ function App() {
   return (
   <div className="app-container">
 
-    <h1>GG Quiz</h1>
+    <h1>The Jeans Quiz</h1>
 
     <Quiz />
   </div>
