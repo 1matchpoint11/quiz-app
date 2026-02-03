@@ -4,19 +4,19 @@ import Results from "./results";
 function Quiz () {
     const questionBank = [
         {
-            question: "What is the capital of France?",
-            options: ["Berlin", "London", "Paris", "Rome"],
-            answer: "Paris",
+            question: "What is the oldest surviving jeans brand in the world?",
+            options: ["Wrangler", "Lee", "Farah", "Levis"],
+            answer: "Levis",
         },
         {
-            question: "How many stars are on the US Flag?",
-            options: ["52", "50", "48", "1"],
-            answer: "50",
+            question: "On a pair of jeans what was the small Fifth pocket (on the right) originally designed to hold?",
+            options: ["Small coins", "A pocket watch", "Needle and thread"],
+            answer: "A pocket watch",
         },
         {
-            question: "What fruit is most eaten in the world?",
-            options: ["Apples","Bananas","Oranges","Pears"],
-            answer: "Bananas",
+            question: "Jeans are made from a natural XXXXXX plant?",
+            options: ["Silk","Cotton","Polyester"],
+            answer: "Cotton",
         },        
     ];
 
